@@ -8,7 +8,7 @@ The purpose of this project was to accurately predict the condition of water wel
 
 In this README we will discuss our process for data cleaning, and model selection.
 
-The final presentation can be found in the file 'Final_Presentation.pdf' or from this link: https://www.canva.com/design/DADvnqWUfzc/Hmop5bQtzVlVGN0NanWZWA/view?utm_content=DADvnqWUfzc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+The final presentation can be found at this link: https://www.canva.com/design/DADxxk59UTI/Cm-lL8QDaLDOTUjDuIl8cA/view?utm_content=DADxxk59UTI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## Team Members
 
