@@ -5,7 +5,7 @@
 The purpose of this project was to accurately predict the condition of water wells in Tanzania. This is a multiclass classification problem as there are three different well conditions. Our goal is to create an effective model to help Tanzania maitenence operations ensure families access to clean water.
 
 ## README Summary
-![map](/images/downlaod.png)
+![map](/images/download.png)
 
 In this README we will discuss our process for data cleaning, and model selection.
 
